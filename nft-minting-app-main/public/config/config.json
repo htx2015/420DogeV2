@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe0131e9872AFC3F89100416CDaC8Db4A2f958dea",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe0131e9872afc3f89100416cdac8db4a2f958dea",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "420Doge",
+  "SYMBOL": "420D",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/420doge-tth3y1xssh",
+  "SHOW_BACKGROUND": true
+}
